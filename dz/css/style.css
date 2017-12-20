@@ -1,0 +1,132 @@
+.body {
+  min-width: 1000px;
+  font-family: Arial, sans-serif;
+}
+
+.main-header {
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  background-color: #8fbc8f;
+}
+
+.container {
+  width: 980px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.main-menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.main-menu li {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  display: inline-block;
+  margin-right: 60px;
+  vertical-align: top;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.main-menu a {
+  color: #002B29;
+  text-decoration: none;
+}
+
+.ex {
+  display: inline-block;
+  vertical-align: top;
+}
+.zagolovok {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  text-align: center;
+}
+
+
+.text {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  border-radius: 10px;
+  width: 610px;
+  height: 320px;
+  background-color: #dfecdf;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-left: 100px;
+}
+
+.nazv {
+  color: red;
+}
+
+.data {
+  color: #CD853F;
+}
+
+.name {
+  color: #00008b;
+}
+
+.gr {
+  color: #800080;
+}
+
+.abstr{
+color: #008080;
+}
+
+.face{
+color: #ffa500;
+}
+
+.legend {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-top: 15px;
+  background-color: #dfecdf;
+  width:350px;
+  height: 325px;
+  margin-left: 20px;
+}
+
+.legend h2 {
+  padding-left: 20px;
+}
+
+.color {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  margin-left: 10px;
+}
+
+
+.svyaz {
+  display: block;
+  float: left;
+}
+
+.nap {
+  text-align: center;
+}
+
+.color {
+  display: block;
+}
+
+.inv {
+  margin-top: 130px;
+  border-radius: 10px;
+  background-color: #013220;
+  font-size: 30px;
+  text-align: center;
+}
+
+.inv a{
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  color: white;
+  text-decoration: none;
+}
